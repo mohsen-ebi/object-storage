@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  simple-store:
+    container_name: simple-store
+    build:
+      context: .
+      dockerfile: Simple.Store.Presentation/Dockerfile
+    networks:
+      - shared_network
+    restart: always
+    volumes:
+      - ./Simple.Store/Simple.Store.Presentation/appsettings.json:/App/appsettings.json  
+networks:
+  shared_network:
+    external: true

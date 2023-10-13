@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  pis-service-pharmacy-test:
+    container_name: pis-service-pharmacy-test
+    build:
+      context: .
+      dockerfile: Service.Pharmacy/Service.Pharmacy.Api/Dockerfile
+    networks:
+      - shared_network_test
+networks:
+  shared_network_test:
+    external: true

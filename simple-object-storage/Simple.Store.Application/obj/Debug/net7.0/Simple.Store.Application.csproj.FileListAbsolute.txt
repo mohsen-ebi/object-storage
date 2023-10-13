@@ -1,0 +1,15 @@
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\bin\Debug\net7.0\Simple.Store.Application.deps.json
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\bin\Debug\net7.0\Simple.Store.Application.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\bin\Debug\net7.0\Simple.Store.Application.pdb
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\bin\Debug\net7.0\Simple.Store.Domain.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\bin\Debug\net7.0\Simple.Store.Domain.pdb
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\Simple.Store.Application.csproj.AssemblyReference.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\Simple.Store.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\Simple.Store.Application.AssemblyInfoInputs.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\Simple.Store.Application.AssemblyInfo.cs
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\Simple.Store.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\Simple.Store.Application.csproj.CopyComplete
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\Simple.Store.Application.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\refint\Simple.Store.Application.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\Simple.Store.Application.pdb
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Application\obj\Debug\net7.0\ref\Simple.Store.Application.dll

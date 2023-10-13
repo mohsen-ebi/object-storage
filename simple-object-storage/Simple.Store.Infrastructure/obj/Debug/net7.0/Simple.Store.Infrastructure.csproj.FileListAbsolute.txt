@@ -1,0 +1,17 @@
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\bin\Debug\net7.0\Simple.Store.Infrastructure.deps.json
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\bin\Debug\net7.0\Simple.Store.Infrastructure.runtimeconfig.json
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\bin\Debug\net7.0\Simple.Store.Infrastructure.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\bin\Debug\net7.0\Simple.Store.Infrastructure.pdb
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.AssemblyInfo.cs
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\refint\Simple.Store.Infrastructure.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.pdb
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.genruntimeconfig.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\ref\Simple.Store.Infrastructure.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\bin\Debug\net7.0\Simple.Store.Domain.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\bin\Debug\net7.0\Simple.Store.Domain.pdb
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Infrastructure\obj\Debug\net7.0\Simple.Store.Infrastructure.csproj.CopyComplete

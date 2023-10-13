@@ -1,0 +1,12 @@
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\bin\Debug\net7.0\Simple.Store.Domain.deps.json
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\bin\Debug\net7.0\Simple.Store.Domain.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\bin\Debug\net7.0\Simple.Store.Domain.pdb
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\Simple.Store.Domain.csproj.AssemblyReference.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\Simple.Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\Simple.Store.Domain.AssemblyInfoInputs.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\Simple.Store.Domain.AssemblyInfo.cs
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\Simple.Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\Simple.Store.Domain.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\refint\Simple.Store.Domain.dll
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\Simple.Store.Domain.pdb
+C:\Users\Mohsen.Ebi\RiderProjects\simple-object-storage\simple-object-storage\Simple.Store.Domain\obj\Debug\net7.0\ref\Simple.Store.Domain.dll

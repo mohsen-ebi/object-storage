@@ -1,0 +1,21 @@
+version: '3.9'
+
+services:
+  simple-store:
+    image: ${DOCKER_REGISTRY:-pis}/simple-store:${PLATFORM:-linux}-${TAG:-latest}
+    ports:
+      - "57870:8080"
+      - "44369:8081"
+      - "57877:8085"
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 1024m
+        reservations:
+          memory: 128m
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:8080,http://+:8085
+      TZ: 'Asia/Tehran'
+      PGTZ: 'Asia/Tehran'
